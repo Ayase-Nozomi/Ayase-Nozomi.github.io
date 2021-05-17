@@ -1,27 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>van的更衣室</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-16T12:20:49.934Z</updated>
+  <updated>2021-05-17T09:44:30.752Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Nozomi</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>网站终于建成了！！！</title>
+    <link href="http://example.com/2021/05/17/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86%EF%BC%81%EF%BC%81%EF%BC%81/"/>
+    <id>http://example.com/2021/05/17/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86%EF%BC%81%EF%BC%81%EF%BC%81/</id>
+    <published>2021-05-17T09:42:40.668Z</published>
+    <updated>2021-05-17T09:44:30.752Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;磕磕碰碰的照着各种教程算是把网站建成了（虽然最后还是没有绑上域名/(ㄒoㄒ)/~~）&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>hello world</title>
     <link href="http://example.com/2021/05/16/hello-world/"/>
     <id>http://example.com/2021/05/16/hello-world/</id>
     <published>2021-05-16T12:20:49.934Z</published>
-    <updated>2021-05-16T12:20:49.934Z</updated>
+    <updated>2021-05-17T09:44:38.711Z</updated>
     
     
       
