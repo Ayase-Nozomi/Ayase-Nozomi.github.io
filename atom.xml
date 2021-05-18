@@ -3,11 +3,11 @@
   <title>van的更衣室</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://ayase-nozomi.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-05-17T12:21:39.233Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://ayase-nozomi.github.io/"/>
+  <updated>2021-05-18T01:17:03.864Z</updated>
+  <id>http://ayase-nozomi.github.io/</id>
   
   <author>
     <name>Nozomi</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>网站终于建成了！！！</title>
-    <link href="http://example.com/2021/05/17/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86%EF%BC%81%EF%BC%81%EF%BC%81/"/>
-    <id>http://example.com/2021/05/17/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86%EF%BC%81%EF%BC%81%EF%BC%81/</id>
+    <link href="http://ayase-nozomi.github.io/2021/05/17/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86%EF%BC%81%EF%BC%81%EF%BC%81/"/>
+    <id>http://ayase-nozomi.github.io/2021/05/17/%E7%BD%91%E7%AB%99%E5%BB%BA%E6%88%90%E4%BA%86%EF%BC%81%EF%BC%81%EF%BC%81/</id>
     <published>2021-05-17T09:42:40.668Z</published>
-    <updated>2021-05-17T12:21:39.233Z</updated>
+    <updated>2021-05-18T01:17:03.864Z</updated>
     
     
       
@@ -36,10 +36,10 @@
   
   <entry>
     <title>hello world</title>
-    <link href="http://example.com/2021/05/16/hello-world/"/>
-    <id>http://example.com/2021/05/16/hello-world/</id>
+    <link href="http://ayase-nozomi.github.io/2021/05/16/hello-world/"/>
+    <id>http://ayase-nozomi.github.io/2021/05/16/hello-world/</id>
     <published>2021-05-16T12:20:49.934Z</published>
-    <updated>2021-05-17T09:44:38.711Z</updated>
+    <updated>2021-05-18T01:17:03.862Z</updated>
     
     
       
